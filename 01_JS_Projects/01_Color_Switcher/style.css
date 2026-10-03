@@ -1,0 +1,44 @@
+.button {
+  padding: 10px 30px;
+  border-radius: 8px;
+  color: #212121;
+  text-decoration: none;
+  border: 2px solid #212121;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+#grey {
+  background-color: grey;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#brown {
+  background-color: brown;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+#yellow {
+  background-color: yellow;
+}
