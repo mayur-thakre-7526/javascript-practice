@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(168, 214, 214);
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+#results {
+    margin-top: 20px;
+}
