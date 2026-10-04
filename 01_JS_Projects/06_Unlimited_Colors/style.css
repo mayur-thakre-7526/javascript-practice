@@ -1,0 +1,17 @@
+body {
+    background-color: #ccbebe;
+    color: #fff;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    color: #212121;
+}
+
+button {
+    cursor: pointer;
+}
