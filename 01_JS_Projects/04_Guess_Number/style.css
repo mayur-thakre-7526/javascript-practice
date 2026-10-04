@@ -1,0 +1,17 @@
+body {
+    background-color: #212121;
+    color: #fff;
+}
+
+#wrapper {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.guessSubmit{
+    margin-top: 20px;
+}
+
+.guessField {
+    margin-top: 20px;
+}
